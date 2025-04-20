@@ -26,11 +26,11 @@ Contatos:
 
 ##
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/rodrigoafonsobarboza/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoafonsobarboza&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/rodrigoafonsobarboza/convoychat">
+  </a> 
+  <a href="https://github.com/rodrigoafonsobarboza/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoafonsobarboza&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+  </a>
 </div>
